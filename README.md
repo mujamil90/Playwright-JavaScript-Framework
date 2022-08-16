@@ -39,10 +39,6 @@
 ### How to view failed test screenshot
 * Go to Project root directory: `./test-results/`
 
-### Sample Allure Test Report
-![Playwright and JavaScript Test Report](./assets/test-report.png?raw=true "Playwright and JavaScript Test Report")
-
-![Playwright and JavaScript Test Report Expanded View](./assets/test-report-expanded-view.png?raw=true "Playwright and JavaScript Test Report Expanded View")
 
 ### Run test with Allure and generate report
 * Run tests: `npx playwright test --reporter=line,allure-playwright`
